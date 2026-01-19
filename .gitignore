@@ -1,33 +1,21 @@
-HELP.md
-target/
-.mvn/wrapper/maven-wrapper.jar
-!**/src/main/**/target/
-!**/src/test/**/target/
+# Employee Management System
 
-### STS ###
-.apt_generated
-.classpath
-.factorypath
-.project
-.settings
-.springBeans
-.sts4-cache
+A full-stack Employee Management System built using **Spring Boot**, **MySQL**, and **React (Vite)**.
 
-### IntelliJ IDEA ###
-.idea
-*.iws
-*.iml
-*.ipr
+## Features
+- Add, update, delete employees
+- RESTful APIs with Spring Boot
+- MySQL database integration
+- React frontend with modern UI
+- Backend–frontend integration using Axios
 
-### NetBeans ###
-/nbproject/private/
-/nbbuild/
-/dist/
-/nbdist/
-/.nb-gradle/
-build/
-!**/src/main/**/build/
-!**/src/test/**/build/
+## Tech Stack
+- Backend: Java, Spring Boot, Hibernate (JPA), MySQL
+- Frontend: React, Vite, Tailwind CSS
+- Tools: Git, GitHub, Postman
 
-### VS Code ###
-.vscode/
+## Run Locally
+
+### Backend
+```bash
+mvn spring-boot:run
