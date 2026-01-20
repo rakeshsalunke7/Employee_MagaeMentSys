@@ -44,7 +44,7 @@ A Spring Boot REST API for managing employee records with CRUD operations.
 
 \- DELETE /api/employees/{id}
 
-## Feayures after using front end 
+## Features including front end 
 - Add, update, delete employees
 - RESTful APIs with Spring Boot
 - MySQL database integration
