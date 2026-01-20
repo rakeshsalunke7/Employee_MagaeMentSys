@@ -44,17 +44,21 @@ A Spring Boot REST API for managing employee records with CRUD operations.
 
 \- DELETE /api/employees/{id}
 
+## Feayures after using front end 
+- Add, update, delete employees
+- RESTful APIs with Spring Boot
+- MySQL database integration
+- React frontend with modern UI
+- Backend–frontend integration using Axios
 
+## Tech Stack
+- Backend: Java, Spring Boot, Hibernate (JPA), MySQL
+- Frontend: React, Vite, Tailwind CSS
+- Tools: Git, GitHub, Postman
 
-\## How to Run
+## Run Locally
 
-1\. Create MySQL database `ems\_db`
-
-2\. Update `application.properties`
-
-3\. Run the Spring Boot application
-
-4\. Test APIs using Postman
-
+### Backend
+```bash
 
 
